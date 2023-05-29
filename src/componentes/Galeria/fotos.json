@@ -2,82 +2,97 @@
   {
     "nome": "Árvore_1",
     "local": "/assets/imgs/Verao 1.jpg",
+    "local2": "./imgs/Verao 1.jpg",
     "tag": "verão"
   },
   {
     "nome": "Árvore_14",
     "local": "/assets/imgs/outono 2.jpg",
+    "local2": "./imgs/outono 2.jpg",
     "tag": "outono"
   },
   {
     "nome": "Árvore_5",
-      "local": "/assets/imgs/inverno 1.jpg",
-      "tag": "inverno"
-    },
-    {
-      "nome": "Árvore_2",
-      "local": "/assets/imgs/Verao 2.jpg",
-      "tag": "verão"
-    },
-    {
-      "nome": "Árvore_11",
-      "local": "/assets/imgs/primavera 3.jpg",
-      "tag": "primavera"
-    },
-    {
-      "nome": "Árvore_15",
-      "local": "/assets/imgs/outono 3.jpg",
-      "tag": "outono"
-    },
-    {
-      "nome": "Árvore_3",
-      "local": "/assets/imgs/Verao 3.jpg",
-      "tag": "verão"
-    },
-    {
-      "nome": "Árvore_4",
-      "local": "/assets/imgs/Verao 4.jpg",
-      "tag": "verão"
-    },
-    {
-      "nome": "Árvore_6",
-      "local": "/assets/imgs/inverno 2.jpg",
-      "tag": "inverno"
-    },
-    {
-      "nome": "Árvore_7",
-      "local": "/assets/imgs/inverno 3.jpg",
-      "tag": "inverno"
-    },
-    {
-      "nome": "Árvore_8",
-      "local": "/assets/imgs/inverno 4.jpg",
-      "tag": "inverno"
-    },
-    {
-      "nome": "Árvore_9",
-      "local": "/assets/imgs/primavera 1.jpg",
-      "tag": "primavera"
-    },
-    {
-      "nome": "Árvore_10",
-      "local": "/assets/imgs/primavera 2.jpg",
-      "tag": "primavera"
-    },
-    {
-      "nome": "Árvore_12",
-      "local": "/assets/imgs/primavera 4.jpg",
-      "tag": "primavera"
-    },
-    {
-      "nome": "Árvore_13",
-      "local": "/assets/imgs/outono 1.jpg",
-      "tag": "outono"
-    },
-    {
-      "nome": "Árvore_16",
-      "local": "/assets/imgs/outono 4.jpg",
-      "tag": "outono"
-    }
-  ]
-  
+    "local": "/assets/imgs/inverno 1.jpg",
+    "local2": "./imgs/inverno 1.jpg",
+    "tag": "inverno"
+  },
+  {
+    "nome": "Árvore_2",
+    "local": "/assets/imgs/Verao 2.jpg",
+    "local2": "./imgs/Verao 2.jpg",
+    "tag": "verão"
+  },
+  {
+    "nome": "Árvore_11",
+    "local": "/assets/imgs/primavera 3.jpg",
+    "local2": "./imgs/primavera 3.jpg",
+    "tag": "primavera"
+  },
+  {
+    "nome": "Árvore_15",
+    "local": "/assets/imgs/outono 3.jpg",
+    "local2": "./imgs/outono 3.jpg",
+    "tag": "outono"
+  },
+  {
+    "nome": "Árvore_3",
+    "local": "/assets/imgs/Verao 3.jpg",
+    "local2": "./imgs/Verao 3.jpg",
+    "tag": "verão"
+  },
+  {
+    "nome": "Árvore_4",
+    "local": "/assets/imgs/Verao 4.jpg",
+    "local2": "./imgs/Verao 4.jpg",
+    "tag": "verão"
+  },
+  {
+    "nome": "Árvore_6",
+    "local": "/assets/imgs/inverno 2.jpg",
+    "local2": "./imgs/inverno 2.jpg",
+    "tag": "inverno"
+  },
+  {
+    "nome": "Árvore_7",
+    "local": "/assets/imgs/inverno 3.jpg",
+    "local2": "./imgs/inverno 3.jpg",
+    "tag": "inverno"
+  },
+  {
+    "nome": "Árvore_8",
+    "local": "/assets/imgs/inverno 4.jpg",
+    "local2": "./imgs/inverno 4.jpg",
+    "tag": "inverno"
+  },
+  {
+    "nome": "Árvore_9",
+    "local": "/assets/imgs/primavera 1.jpg",
+    "local2": "./imgs/primavera 1.jpg",
+    "tag": "primavera"
+  },
+  {
+    "nome": "Árvore_10",
+    "local": "/assets/imgs/primavera 2.jpg",
+    "local2": "./imgs/primavera 2.jpg",
+    "tag": "primavera"
+  },
+  {
+    "nome": "Árvore_12",
+    "local": "/assets/imgs/primavera 4.jpg",
+    "local2": "./imgs/primavera 4.jpg",
+    "tag": "primavera"
+  },
+  {
+    "nome": "Árvore_13",
+    "local": "/assets/imgs/outono 1.jpg",
+    "local2": "./imgs/outono 1.jpg",
+    "tag": "outono"
+  },
+  {
+    "nome": "Árvore_16",
+    "local": "/assets/imgs/outono 4.jpg",
+    "local2": "./imgs/outono 4.jpg",
+    "tag": "outono"
+  }
+]
