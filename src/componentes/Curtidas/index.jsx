@@ -19,7 +19,7 @@ const Curtidas = ({ curtidas, setCurtidas }) => {
                         )
                     })}
                 </ul>
-                <button onClick={() => setCurtidas([])} >Reset</button>
+                <button onClick={() => setCurtidas([])} >Limpar</button>
             </div>
         </div>
     );
