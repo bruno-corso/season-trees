@@ -1,0 +1,19 @@
+.menu {
+    color: var(--verde-claro);
+}
+
+.menu ul {
+    list-style: square;
+}
+
+
+.menu a {
+    color: var(--verde-claro);
+    text-decoration: none;
+}
+
+.menu a:hover {
+    transition: 0.1s;
+    color: var(--verde-medio);
+    font-weight: bold;
+}

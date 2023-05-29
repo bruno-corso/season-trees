@@ -1,0 +1,7 @@
+.menuimagem { 
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0;
+    padding-right: 5vw;
+    align-items: center;
+}

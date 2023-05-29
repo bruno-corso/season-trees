@@ -1,0 +1,23 @@
+.cabecalho {
+    display: flex;
+    justify-content: start;
+    padding: 0.5rem 2rem;
+    align-items: center;
+    background-color: var(--verde-claro);
+}
+
+.cabecalho img {
+    width: 60px;
+    height: 60px;
+}
+
+.cabecalho h1 {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin: 0;
+    font-weight: bold;
+    margin-left: 5vw;
+    /* color: var(--verde-escuro); */
+    color: brown;
+}

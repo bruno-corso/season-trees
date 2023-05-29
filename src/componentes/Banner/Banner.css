@@ -1,0 +1,8 @@
+.banner {
+    background-image: url('Banner.png');
+    background-position: center;
+    background-size: cover;
+    border-radius: 1rem;
+    height: 25vh;
+    width: 75%;
+}
